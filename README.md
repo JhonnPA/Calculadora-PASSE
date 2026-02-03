@@ -33,10 +33,11 @@ Para correr este script, precisa de ter instalado no seu computador:
    Abra o terminal e digite:
    ```bash
    git clone [https://github.com/JhonnPA/Calculadora-PASSE.git](https://github.com/JhonnPA/Calculadora-PASSE.git)
-   ## 🚀 Como executar o projeto
 
-1. Clone o repositório  
-   Abra o terminal e digite:
-
+2. **Entre na pasta do projeto:**
    ```bash
-   git clone https://github.com/JhonnPA/Calculadora-PASSE.git
+   cd Calculadora-PASSE
+
+3. **Execute o script:**
+   ```bash
+   python CALC_PASSE_UFMS.py
