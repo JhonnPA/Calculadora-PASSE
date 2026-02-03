@@ -23,7 +23,7 @@ A fórmula utilizada para cada competência é:
 
 ## 📋 Requisitos
 
-Para correr este script, precisa de ter instalado no seu computador:
+Para executar este script, precisa de ter instalado no seu computador:
 * **Python 3.6** ou superior.
 ---
 
